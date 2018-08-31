@@ -1,0 +1,1 @@
+Van.create(make: "Mercedes-Benz", model: "Sprinter", year: "2018", color: "gray", price: "$33,900")
